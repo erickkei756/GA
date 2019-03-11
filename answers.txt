@@ -1,0 +1,8 @@
+1. A nested loop forces an action to be repeated as many times as needed until specific conditions are met. In particular, the nested loop performances those actions within a predefined variable. 
+2. While
+3. For
+4. Yes - example given: sammy = 'Sammy'
+
+for letter in sammy:
+   print(letter)
+5. Yes - the while loop will repeat until the given conditions are met, and it is possible to construct the for loop such that the repeated actions in this nested loop eventually satisfy the conditions of the ‘while’.
