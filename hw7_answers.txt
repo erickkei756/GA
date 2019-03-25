@@ -1,0 +1,5 @@
+1. Coercion is another term for implicit type conversion.
+2. Type casting is another term for explicit type conversion.
+3. type() checks an object’s data type. 
+4. Lists are not primitive data structures. 
+5. Tuples are immutable, while lists are not. If you need to change the content of a tuple, it must first be converted to a list. 
